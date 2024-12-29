@@ -82,17 +82,11 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📞 Contato
 
-Seu Nome - [@seutwitter](https://twitter.com/seutwitter)
+[[Seu Nome - [@seutwitter]([https://twitter.com/seutwitter](https://www.linkedin.com/in/dheiver-santos/))
+](https://www.linkedin.com/in/dheiver-santos/)](https://www.linkedin.com/in/dheiver-santos/)
 
 Link do Projeto: [https://github.com/seu-usuario/chat-ai-interface](https://github.com/seu-usuario/chat-ai-interface)
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="/assets/images/screenshot1.png" alt="Chat Screen" width="45%">
-  <img src="/assets/images/screenshot2.png" alt="Mobile View" width="45%">
-  <p><em>Interface desktop e mobile</em></p>
-</div>
 
 ## ⭐ Deixe uma Estrela!
 
