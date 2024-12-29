@@ -82,8 +82,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📞 Contato
 
-[[Seu Nome - [@seutwitter]([https://twitter.com/seutwitter](https://www.linkedin.com/in/dheiver-santos/))
-](https://www.linkedin.com/in/dheiver-santos/)](https://www.linkedin.com/in/dheiver-santos/)
+https://www.linkedin.com/in/dheiver-santos/
 
 Link do Projeto: [https://github.com/seu-usuario/chat-ai-interface](https://github.com/seu-usuario/chat-ai-interface)
 
