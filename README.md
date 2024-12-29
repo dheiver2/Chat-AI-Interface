@@ -4,10 +4,6 @@ Uma interface moderna de chat inspirada no Claude AI, construída com HTML, CSS 
 
 ![Chat AI Interface Preview](preview.png)
 
-<div align="center">
-  <img src="/assets/images/demo.gif" alt="Chat AI Demo" width="600px">
-  <p><em>Interface do Chat AI em ação</em></p>
-</div>
 
 ## 🌟 Características
 
